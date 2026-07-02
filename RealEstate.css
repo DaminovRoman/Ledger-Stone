@@ -567,7 +567,7 @@ main { display: block; }
 }
 .hero__title-line { display: block; overflow: hidden; }
 .hero__title-line span { display: inline-block; }
-.hero__title-line--accent { color: var(--gold-bright); font-style: italic; font-weight: 350; }
+.hero__title-line--accent { color: white; font-style: italic; font-weight: 350; }
 
 .hero__subtitle {
   margin-top: var(--sp-5);
